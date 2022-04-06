@@ -1,5 +1,8 @@
 # AskGabz
 
+![logo](https://user-images.githubusercontent.com/44988043/162091866-78adc3c4-ff4a-46a6-a2eb-5deaaf0a386e.png)
+##
+
 <p>
   AskGabz trata-se de uma aplicação de perguntas e respostas no estilo Ask.fm, onde o usuário pode realizar perguntas e responder a perguntas existentes.
   A aplicação foi desenvolvida utilzando o template engine EJS com Bootstrap no front-end e MySQL e NodeJS no back-end.  
@@ -7,7 +10,7 @@
 
 ##
 
-#Instruções
+# Instruções
 
 <p>
   <strong>Atenção:</strong> Para a execução da aplicação é necessário que tenha o MySQL instalado na máquina.
